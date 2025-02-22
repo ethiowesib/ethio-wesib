@@ -63,7 +63,8 @@ nav {
     flex-direction: column;
     align-items: center;
     padding: 2em;
-    margin: 20px;
+    margin-right: 4em;
+    margin-left: 4em;
     margin-top: 4em; /* Add this line to add space between navbar and video container */
 }
 
